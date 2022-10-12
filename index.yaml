@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   opensearch-operator:
   - apiVersion: v2
-    appVersion: latest_01
-    created: "2022-10-12T11:25:55.746093798Z"
+    appVersion: latest_02
+    created: "2022-10-12T11:27:05.169570131Z"
     description: The OpenSearch Operator Helm chart for Kubernetes
-    digest: ce35e62ce07ea7e040d2aed3156bb24efd827ae3e3e125ab03a96fba6769c556
+    digest: 2a9e946a46d9e6c352fe41094b9b40e5f31417e7d71278d06a1507e440d80cd2
     name: opensearch-operator
     type: application
     urls:
-    - https://github.com/jinchengsix/helmRepo/releases/download/opensearch-operator-2.0.5/opensearch-operator-2.0.5.tgz
-    version: 2.0.5
-generated: "2022-10-12T11:25:55.480256886Z"
+    - https://github.com/jinchengsix/helmRepo/releases/download/opensearch-operator-2.0.6/opensearch-operator-2.0.6.tgz
+    version: 2.0.6
+generated: "2022-10-12T11:27:05.002083991Z"
